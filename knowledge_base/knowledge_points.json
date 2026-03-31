@@ -1,0 +1,125 @@
+{
+  "数学": {
+    "初中二年级": [
+      {
+        "name": "一次函数",
+        "level": "核心",
+        "prerequisites": [
+          "平面直角坐标系",
+          "函数概念"
+        ]
+      },
+      {
+        "name": "三角形全等",
+        "level": "核心",
+        "prerequisites": [
+          "三角形概念",
+          "角的性质"
+        ]
+      },
+      {
+        "name": "勾股定理",
+        "level": "重要",
+        "prerequisites": [
+          "直角三角形",
+          "平方运算"
+        ]
+      },
+      {
+        "name": "平行四边形",
+        "level": "重要",
+        "prerequisites": [
+          "平行线",
+          "四边形"
+        ]
+      },
+      {
+        "name": "因式分解",
+        "level": "核心",
+        "prerequisites": [
+          "整式乘法",
+          "乘法公式"
+        ]
+      }
+    ]
+  },
+  "物理": {
+    "初中二年级": [
+      {
+        "name": "压强",
+        "level": "核心",
+        "prerequisites": [
+          "力的概念",
+          "面积计算"
+        ]
+      },
+      {
+        "name": "浮力",
+        "level": "核心",
+        "prerequisites": [
+          "力的平衡",
+          "密度"
+        ]
+      },
+      {
+        "name": "杠杆",
+        "level": "重要",
+        "prerequisites": [
+          "力的概念",
+          "力臂"
+        ]
+      },
+      {
+        "name": "功",
+        "level": "重要",
+        "prerequisites": [
+          "力",
+          "距离"
+        ]
+      },
+      {
+        "name": "机械能",
+        "level": "重要",
+        "prerequisites": [
+          "动能",
+          "势能"
+        ]
+      }
+    ]
+  },
+  "地理": {
+    "初中一年级": [
+      {
+        "name": "经纬网",
+        "level": "核心",
+        "prerequisites": [
+          "地球形状",
+          "角度概念"
+        ]
+      },
+      {
+        "name": "地球运动",
+        "level": "核心",
+        "prerequisites": [
+          "自转",
+          "公转"
+        ]
+      },
+      {
+        "name": "大洲大洋",
+        "level": "基础",
+        "prerequisites": [
+          "地图识别"
+        ]
+      },
+      {
+        "name": "气候类型",
+        "level": "重要",
+        "prerequisites": [
+          "气温",
+          "降水"
+        ]
+      }
+    ]
+  }
+}

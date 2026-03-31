@@ -1,0 +1,37 @@
+{
+  "数学": {
+    "初中二年级": {
+      "一次函数": [
+        {
+          "question": "已知一次函数 y=kx+b 的图象经过点 (1,3) 和 (2,5)，求这个函数的解析式。",
+          "answer": "解：将两点代入得：3=k+b, 5=2k+b，解得 k=2, b=1，所以 y=2x+1",
+          "analysis": "考查待定系数法求一次函数解析式",
+          "difficulty": 0.65,
+          "bloom_level": "应用"
+        }
+      ],
+      "三角形全等": [
+        {
+          "question": "如图，在△ABC 和△DEF 中，AB=DE，∠B=∠E，BC=EF。求证：△ABC≌△DEF。",
+          "answer": "证明：在△ABC 和△DEF 中，AB=DE，∠B=∠E，BC=EF，根据 SAS 判定定理，△ABC≌△DEF。",
+          "analysis": "考查三角形全等的 SAS 判定",
+          "difficulty": 0.7,
+          "bloom_level": "理解"
+        }
+      ]
+    }
+  },
+  "物理": {
+    "初中二年级": {
+      "压强": [
+        {
+          "question": "一个重 500N 的人，每只脚与地面的接触面积为 200cm²，求他站立时对地面的压强。",
+          "answer": "解：F=G=500N，S=2×200cm²=400cm²=0.04m²，p=F/S=500N/0.04m²=12500Pa",
+          "analysis": "考查压强公式 p=F/S 的应用，注意单位换算和受力面积",
+          "difficulty": 0.6,
+          "bloom_level": "应用"
+        }
+      ]
+    }
+  }
+}
